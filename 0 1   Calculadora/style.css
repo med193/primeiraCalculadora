@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body{
+    background-color: #29ABF4;
+}
+body form #calculadora{
+   background-color: #FC3C3C; 
+   padding:5px 5px 5px 5px;
+   margin-top:200px;
+   margin-left:550px;
+   margin-right:565px;
+   border:10px;
+   border-radius:5px;
+   border-color: blueviolet;
+   box-shadow:10px 10px 10px rgb(4, 17, 4);
+   font-size:30px;
+   
+   
+}
+#visor{
+    padding:10px;
+    padding-left:2px;
+    width: 205px;;
+    box-shadow:0.2px 0.2px 0.2px;
+    font-size:20px;
+}
+.botaoborda{
+font-size:30px;
+width:50px;
+box-shadow:2px 2px 2px rgb(4, 17, 4) ;
+}
